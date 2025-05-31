@@ -18,7 +18,9 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
 		<meta property="schema:accessMode">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
 		<meta property="schema:accessibilityFeature">structuralNavigation</meta>
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
@@ -124,7 +126,7 @@
 		<item href="text/chapter-24.xhtml" id="chapter-24.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-25.xhtml" id="chapter-25.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/epilogue.xhtml" id="epilogue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/loi.xhtml" id="loi.xhtml" media-type="application/xhtml+xml"/>
