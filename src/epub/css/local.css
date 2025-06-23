@@ -60,3 +60,9 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+hr.tb {
+    width: 45%; 
+    margin-left: 27.5%;
+    margin-right: 27.5%
+}
