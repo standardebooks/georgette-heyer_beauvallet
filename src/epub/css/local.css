@@ -18,8 +18,7 @@ figure img{
 }
 
 figcaption{
-	font-size: smaller; /* font-style: italic; */
-	margin: 1em; /* text-align: center; Note: the caption consists of many paragraphs about the figure */
+	margin: 1em; /* Note: the caption consists of many paragraphs about the figure */
 }
 
 figcaption p + p{
@@ -60,3 +59,7 @@ section[epub|type~="dedication"] > *{
 	}
 }
 /* End all dedications */
+
+#appendix abbr{
+	font-style: italic;
+}
