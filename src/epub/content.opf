@@ -49,10 +49,11 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010103775</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">In the 1500s a daring English pirate, plunders a Spanish ship and, finding a beautiful, haughty, and spirited lady aboard woos her.</dc:description>
+		<dc:description id="description">In the 1500s a daring English seaman, plunders a Spanish ship and, finding a beautiful, haughty, and spirited lady aboard woos her.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This book is set in the late 1500s in a struggle between the English and Spanish for dominance in the seas, with low level warfare conducted with pirates. The story also reflects the animosity between the Protestant Church of England and the Catholic Church with their inquisitors in Spain.&lt;/p&gt;
-			&lt;p&gt;One such pirate is particularly odious and infamous to the Spanish. And having yet another success against a Spanish galleon, this pirate finds aboard a haughty and spirited lady. He vows, after returning her to a smuggling port in Spain, that he will return within a year to retrieve and marry her. In turn she is attracted by his honor, courage, and recklessness. Romance and daring escapades ensue.&lt;/p&gt;
+			&lt;p&gt;This book is set in the late 1500s in a struggle between the English and Spanish for dominance in the seas. The story also reflects the animosity between the Protestant Church of England and the Catholic Church with their inquisitors in Spain, making it very dangerous for the English to travel to Spain.&lt;/p&gt;
+			&lt;p&gt;In this story, Sir Nicholas Beauvallet, captains an English ship and when fired upon by a Spanish galleon, attacks it and has a spectacular victory. Unexpectedly, Sir Nicholas finds the beautiful and spirited Dominica aboard with her dying father. Beauvallet treats them well and, at great risk, returns them to Spain himself - but not before wooing Dominica and vowing to retrieve her from Spain within the year. In turn Dominica is attracted by his honor, courage, and recklessness.&lt;/p&gt;
+			&lt;p&gt;Beauvallet’s reckless nature and his bravery ensure an exciting and adventurous story as he sets out to fulfill his vow to win Dominica's heart and marry her.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75547</dc:source>
