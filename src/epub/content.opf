@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/georgette-heyer/beauvallet</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-25T16:31:11Z</dc:date>
+		<meta property="dcterms:modified">2025-06-25T16:31:11Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -49,20 +49,18 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2010103775</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">In the 1500s a daring English seaman, plunders a Spanish ship and, finding a beautiful, haughty, and spirited lady aboard woos her.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Beauvallet Dynasty</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<dc:description id="description">A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;This book is set in the late 1500s in a struggle between the English and Spanish for dominance in the seas. The story also reflects the animosity between the Protestant Church of England and the Catholic Church with their inquisitors in Spain, making it very dangerous for the English to travel to Spain.&lt;/p&gt;
-			&lt;p&gt;In this story, Sir Nicholas Beauvallet, captains an English ship and when fired upon by a Spanish galleon, attacks it and has a spectacular victory. Unexpectedly, Sir Nicholas finds the beautiful and spirited Dominica aboard with her dying father. Beauvallet treats them well and, at great risk, returns them to Spain himself - but not before wooing Dominica and vowing to retrieve her from Spain within the year. In turn Dominica is attracted by his honor, courage, and recklessness.&lt;/p&gt;
-			&lt;p&gt;Beauvallet’s reckless nature and his bravery ensure an exciting and adventurous story as he sets out to fulfill his vow to win Dominica's heart and marry her.&lt;/p&gt;
+			&lt;p&gt;It’s the late 1500s and the English and the Spanish are struggling for dominance over the seas. Sir Nicholas Beauvallet is captaining an English ship when he’s fired upon by a Spanish galleon. He returns the attack and leads his men to a spectacular victory. But while plundering the ship, Sir Nicholas discovers aboard the beautiful and spirited Dominica, who is traveling with her dying father. Beauvallet treats them well and, at great risk to himself, returns them to Spain—but not before wooing Dominica and vowing to return for her within the year. In turn Dominica is attracted by his honor, courage, and recklessness.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75547</dc:source>
 		<dc:source>https://archive.org/details/beauvallet0000geor_c2g9</dc:source>
-		<meta property="se:production-notes">
-			The scan used from the Internet Archive did not include the family tree in the appendix, but is does exist in the Project Gutenberg production.
-		</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">91026</meta>
+		<meta property="se:reading-ease.flesch">84.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beauvallet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_beauvallet</meta>
 		<dc:creator id="author">Georgette Heyer</dc:creator>
@@ -98,6 +96,9 @@
 		<dc:contributor id="producer-2">David Reimer</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">dln</meta>
+		<dc:contributor id="producer-3">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-3">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-3" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
