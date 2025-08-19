@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75547</dc:source>
 		<dc:source>https://archive.org/details/beauvallet0000geor_c2g9</dc:source>
-		<meta property="se:word-count">91026</meta>
+		<meta property="se:word-count">91025</meta>
 		<meta property="se:reading-ease.flesch">84.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Beauvallet</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/georgette-heyer_beauvallet</meta>
