@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/georgette-heyer/beauvallet</dc:identifier>
 		<dc:date>2025-06-25T16:31:11Z</dc:date>
@@ -53,10 +53,10 @@
 		<meta id="collection-1" property="belongs-to-collection">Beauvallet Dynasty</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;It’s the late 1500s and the English and the Spanish are struggling for dominance over the seas. Sir Nicholas Beauvallet is captaining an English ship when he’s fired upon by a Spanish galleon. He returns the attack and leads his men to a spectacular victory. But while plundering the ship, Sir Nicholas discovers aboard the beautiful and spirited Dominica, who is traveling with her dying father. Beauvallet treats them well and, at great risk to himself, returns them to Spain—but not before wooing Dominica and vowing to return for her within the year. In turn Dominica is attracted by his honor, courage, and recklessness.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75547</dc:source>
 		<dc:source>https://archive.org/details/beauvallet0000geor_c2g9</dc:source>
