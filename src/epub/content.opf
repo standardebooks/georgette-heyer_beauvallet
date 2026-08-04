@@ -53,7 +53,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Beauvallet Dynasty</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard.</dc:abstract>
+		<meta property="schema:abstract">A daring English seaman plunders a Spanish ship and woos the beautiful, haughty, and spirited lady he finds aboard.</meta>
 		<dc:description>
 			&lt;p&gt;It’s the late 1500s and the English and the Spanish are struggling for dominance over the seas. Sir Nicholas Beauvallet is captaining an English ship when he’s fired upon by a Spanish galleon. He returns the attack and leads his men to a spectacular victory. But while plundering the ship, Sir Nicholas discovers aboard the beautiful and spirited Dominica, who is traveling with her dying father. Beauvallet treats them well and, at great risk to himself, returns them to Spain—but not before wooing Dominica and vowing to return for her within the year. In turn Dominica is attracted by his honor, courage, and recklessness.&lt;/p&gt;
 		</dc:description>
